@@ -1,2 +1,2 @@
 # test
-for the testing
+kindly install npm modules
